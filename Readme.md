@@ -7,8 +7,8 @@ This repository contains a simple web application to list EC2 snapshots and perf
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/ec2-snapshots-web-ui.git
-cd ec2-snapshots-web-ui
+git clone https://github.com/gourav-rcrm/snapshots-visualizer.git
+cd snapshots-visualizer
 ```
 
 2. Install the required dependencies:
