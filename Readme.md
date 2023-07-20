@@ -1,8 +1,8 @@
-## rm -rf Snapshots Web UI
+## 📁 rm -rf Snapshots Web UI
 
 This repository contains a simple web application to list EC2 snapshots and perform deletion operations on them using a user-friendly web interface.
 
-### Instructions to Run
+### Instructions to Run 🏃‍♂️
 
 1. Clone the repository to your local machine:
 
@@ -31,12 +31,10 @@ python app.py
 
 The application will start running on your local machine, and you can access it through your web browser by visiting `http://localhost:5000/`.
 
-5. View EC2 Snapshots:
+5. View EC2 Snapshots 👀
 
 The web interface will display a table containing all your EC2 snapshots, sorted by date of creation in ascending order. Snapshots are segregated based on their creation date for easy navigation.
 
-6. Delete Snapshots:
+6. Delete Snapshots ❌
 
 You can delete a snapshot by clicking the "Delete" button next to the corresponding snapshot. Be cautious while deleting, as it's irreversible.
-
-**Enjoy managing your EC2 snapshots with ease using this web interface!**
