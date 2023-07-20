@@ -39,11 +39,4 @@ The web interface will display a table containing all your EC2 snapshots, sorted
 
 You can delete a snapshot by clicking the "Delete" button next to the corresponding snapshot. Be cautious while deleting, as it's irreversible.
 
-### Additional Notes
-
-- This web application uses the Flask micro-framework for Python to provide the web interface.
-- The UI is styled using Tailwind CSS CDN for a clean and modern look.
-- Ensure that you have an active internet connection to access the Tailwind CSS CDN.
-- For security reasons, make sure to use appropriate authentication and authorization mechanisms before deploying this application to production.
-
 **Enjoy managing your EC2 snapshots with ease using this web interface!**
